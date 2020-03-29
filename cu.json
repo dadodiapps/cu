@@ -136,9 +136,9 @@
 {"id":"16374","number":"131","name":"Radio Sierra Maestra","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Sierra%20Maestra.jpg","streamUrl":"https://icecast.teveo.cu/wcdnsH3K","yourmuzeId":null,"state":"1"},   
 {"id":"16375","number":"132","name":"radio jiguani","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/radio%20jiguani.jpg","streamUrl":"https://icecast.teveo.cu/nkz3TCfR","yourmuzeId":null,"state":"1"},  
 {"id":"16376","number":"133","name":"radio la voz del niquel","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/la%20voz%20del%20niquel.jpg","streamUrl":"https://icecast.teveo.cu/nj4PLTHR","yourmuzeId":null,"state":"1"},  
-{"id":"16377","number":"134","name":"radio gibara la voz del atlantico","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_113.png","streamUrl":"https://icecast.teveo.cu/KLp4WrKL","yourmuzeId":null,"state":"1"},  
-{"id":"16378","number":"135","name":"Virgin radio Rock Party","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Virgin%20Rock%20Party.png","streamUrl":"http://icy.unitedradio.it/VirginRockParty.mp3","yourmuzeId":null,"state":"1"},  
-{"id":"16379","number":"136","name":"Pop'n'Rock Factory","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Pop'n'Rock%20Factory.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":null,"state":"1"}   
+{"id":"16377","number":"134","name":"Pop'n'Rock Factory","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Pop'n'Rock%20Factory.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":null,"state":"1"}, 
+{"id":"16378","number":"135","name":"Virgin radio Rock Party","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Virgin%20Rock%20Party.png","streamUrl":"http://icy.unitedradio.it/VirginRockParty.mp3","yourmuzeId":null,"state":"1"}   
+   
   
   
 ],"country":{"id":"26","name":"cuba","logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
