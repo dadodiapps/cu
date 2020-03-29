@@ -129,6 +129,11 @@
 {"id":"16367","number":"124","name":"Radio Coral","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_107.png","streamUrl":"https://icecast.teveo.cu/svzd4KHw","yourmuzeId":null,"state":"0"},  
 {"id":"16368","number":"125","name":"Radio Coral","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_107.png","streamUrl":"https://icecast.teveo.cu/svzd4KHw","yourmuzeId":null,"state":"0"},  
 {"id":"16369","number":"126","name":"Radio Coral","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_107.png","streamUrl":"https://icecast.teveo.cu/svzd4KHw","yourmuzeId":null,"state":"0"}  
+{"id":"16370","number":"127","name":"Radio Gibara, La Voz del Atlántico","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_113.png","streamUrl":"https://icecast.teveo.cu/KLp4WrKL","yourmuzeId":null,"state":"1"},  
+{"id":"16371","number":"128","name":"Radio Guáimaro","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_113.png","streamUrl":"https://icecast.teveo.cu/gXgMFKp9","yourmuzeId":null,"state":"1"},  
+{"id":"16372","number":"129","name":"Radio Sagua","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_113.png","streamUrl":"https://icecast.teveo.cu/wHm3qrMx","yourmuzeId":null,"state":"1"},  
+{"id":"16373","number":"130","name":"Aguada Radio","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_113.png","streamUrl":"https://icecast.teveo.cu/qpMCfv3f","yourmuzeId":null,"state":"1"},  
+{"id":"16374","number":"131","name":"Radio Sierra Maestra","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_113.png","streamUrl":"https://icecast.teveo.cu/wcdnsH3K","yourmuzeId":null,"state":"1"}   
   
   
 ],"country":{"id":"26","name":"cuba","logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
