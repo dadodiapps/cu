@@ -20,8 +20,8 @@
 {"id":"3866","number":"15","name":"Tropicalisima.fm - Instrumental ","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Tropicalisima.fm%20-%20Instrumental.jpg","streamUrl":"http://tropicalisima.net:9000/;;","yourmuzeId":null,"state":"1"}, 
 {"id":"3867","number":"16","name":"Cubania","description":"","logo":"https://raw.githubusercontent.com/tzafino/cu/master/z_radio_cubana.jpg","streamUrl":"http://listen.radionomy.com/cubania","yourmuzeId":"0","state":"1"},
 {"id":"3868","number":"17","name":"Radio Club Habana","description":"rtsp://8.27.244.125/sambatechcdrradiohabanaclublive-live/livestream1.flv\r\nhttp://i60.letio.com/7310.aac?type=.flv","logo":"https://raw.githubusercontent.com/tzafino/cu/master/z_radio_radio_club_habana.png","streamUrl":"https://icecast.teveo.cu/McW3fLhs","yourmuzeId":null,"state":"1"},
- 
- 
+{"id":"16369","number":"18","name":"Radio Sierra Maestra","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Sierra%20Maestra.jpg","streamUrl":"https://icecast.teveo.cu/wcdnsH3K","yourmuzeId":null,"state":"1"}, 
+{"id":"16370","number":"19","name":"Aguada Radio","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Aguada%20Radio.jpg","streamUrl":"http://server.israelstreamtv.com:7040/;stream.mp3","yourmuzeId":null,"state":"1"}, 
 {"id":"16371","number":"20","name":"radio musica Sabrosa","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/z_radio_radio_musica_sabrosa.png","streamUrl":"https://stream.zeno.fm/n2g31m9ahhruv.m3u","yourmuzeId":null,"state":"1"},
 {"id":"3872","number":"21","name":"Radio Exitos instrumentales","description":"http://i60.letio.com/7360.aac?type=.flv\r\nhttp://i60.letio.com/7360.aac?type=.flv","logo":"https://raw.githubusercontent.com/tzafino/cu/master/z_radio_radio_exitos_instrumentales.png","streamUrl":"http://slrp.sambavideos.sambatech.com/radio/cdrcristal_5c4323f259ac44ae0a4b1d68400ba314/livestream/playlist.m3u8","yourmuzeId":null,"state":"0"},
 {"id":"3873","number":"22","name":"Radio Rock en Espanol","description":"http://i60.letio.com/7352.aac?type=.flv","logo":"https://raw.githubusercontent.com/tzafino/cu/master/z_radio_radio_rock_en_espanol.png","streamUrl":"http://streaming.radionomy.com/PopYRockEnEspanol","yourmuzeId":null,"state":"1"},
@@ -131,9 +131,9 @@
 {"id":"16369","number":"126","name":"radio jiguani","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/radio%20jiguani.jpg","streamUrl":"https://icecast.teveo.cu/nkz3TCfR","yourmuzeId":null,"state":"1"},   
 {"id":"16370","number":"127","name":"Radio Gibara, La Voz del Atlántico","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Gibara%2C%20La%20Voz%20del%20Atl%C3%A1ntico.jpg","streamUrl":"https://icecast.teveo.cu/KLp4WrKL","yourmuzeId":null,"state":"1"},  
 {"id":"16371","number":"128","name":"Radio Guáimaro","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Gu%C3%A1imaro.jpg","streamUrl":"https://icecast.teveo.cu/gXgMFKp9","yourmuzeId":null,"state":"1"},  
-{"id":"16372","number":"129","name":"Radio Sagua","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Sagua.jpg","streamUrl":"https://icecast.teveo.cu/wHm3qrMx","yourmuzeId":null,"state":"1"},  
-{"id":"16373","number":"130","name":"Aguada Radio","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Aguada%20Radio.jpg","streamUrl":"http://server.israelstreamtv.com:7040/;stream.mp3","yourmuzeId":null,"state":"1"},  
-{"id":"16374","number":"131","name":"Radio Sierra Maestra","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Sierra%20Maestra.jpg","streamUrl":"https://icecast.teveo.cu/wcdnsH3K","yourmuzeId":null,"state":"1"}    
+{"id":"16372","number":"129","name":"Radio Sagua","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Sagua.jpg","streamUrl":"https://icecast.teveo.cu/wHm3qrMx","yourmuzeId":null,"state":"1"}   
+  
+    
   
   
   
