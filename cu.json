@@ -126,17 +126,17 @@
 {"id":"16364","number":"121","name":"Miled Music - Mariachi","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Miled%20Music%20-%20Mariachi.jpg","streamUrl":"http://192.99.34.205:8165/stream","yourmuzeId":null,"state":"1"},  
 {"id":"16365","number":"122","name":"Punk Rock Demonstration","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Punk%20Rock%20Demonstration.png","streamUrl":"http://radio.punkrockdemo.com:8000/;","yourmuzeId":null,"state":"1"},  
 {"id":"16366","number":"123","name":"Rock Radio Online Mexico","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Rock%20Radio%20Online%20Mexico.jpg","streamUrl":"https://15913.live.streamtheworld.com/SAM07AAC286.mp3","yourmuzeId":null,"state":"1"},  
-{"id":"16367","number":"124","name":"Radio Coral","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_107.png","streamUrl":"https://icecast.teveo.cu/svzd4KHw","yourmuzeId":null,"state":"0"},  
-{"id":"16368","number":"125","name":"Radio Coral","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_107.png","streamUrl":"https://icecast.teveo.cu/svzd4KHw","yourmuzeId":null,"state":"0"},  
-{"id":"16369","number":"126","name":"Radio Coral","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/cuba_107.png","streamUrl":"https://icecast.teveo.cu/svzd4KHw","yourmuzeId":null,"state":"0"},  
+{"id":"16367","number":"124","name":"Pop'n'Rock Factory","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Pop'n'Rock%20Factory.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":null,"state":"1"}, 
+{"id":"16368","number":"125","name":"radio la voz del niquel","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/la%20voz%20del%20niquel.jpg","streamUrl":"https://icecast.teveo.cu/nj4PLTHR","yourmuzeId":null,"state":"1"},   
+{"id":"16369","number":"126","name":"radio jiguani","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/radio%20jiguani.jpg","streamUrl":"https://icecast.teveo.cu/nkz3TCfR","yourmuzeId":null,"state":"1"},   
 {"id":"16370","number":"127","name":"Radio Gibara, La Voz del Atlántico","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Gibara%2C%20La%20Voz%20del%20Atl%C3%A1ntico.jpg","streamUrl":"https://icecast.teveo.cu/KLp4WrKL","yourmuzeId":null,"state":"1"},  
 {"id":"16371","number":"128","name":"Radio Guáimaro","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Gu%C3%A1imaro.jpg","streamUrl":"https://icecast.teveo.cu/gXgMFKp9","yourmuzeId":null,"state":"1"},  
 {"id":"16372","number":"129","name":"Radio Sagua","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Sagua.jpg","streamUrl":"https://icecast.teveo.cu/wHm3qrMx","yourmuzeId":null,"state":"1"},  
 {"id":"16373","number":"130","name":"Aguada Radio","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Aguada%20Radio.jpg","streamUrl":"http://server.israelstreamtv.com:7040/;stream.mp3","yourmuzeId":null,"state":"1"},  
-{"id":"16374","number":"131","name":"Radio Sierra Maestra","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Sierra%20Maestra.jpg","streamUrl":"https://icecast.teveo.cu/wcdnsH3K","yourmuzeId":null,"state":"1"},   
-{"id":"16375","number":"132","name":"radio jiguani","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/radio%20jiguani.jpg","streamUrl":"https://icecast.teveo.cu/nkz3TCfR","yourmuzeId":null,"state":"1"},  
-{"id":"16376","number":"133","name":"radio la voz del niquel","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/la%20voz%20del%20niquel.jpg","streamUrl":"https://icecast.teveo.cu/nj4PLTHR","yourmuzeId":null,"state":"1"},  
-{"id":"16377","number":"134","name":"Pop'n'Rock Factory","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Pop'n'Rock%20Factory.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":null,"state":"1"}  
+{"id":"16374","number":"131","name":"Radio Sierra Maestra","description":null,"logo":"https://raw.githubusercontent.com/tzafino/cu/master/Radio%20Sierra%20Maestra.jpg","streamUrl":"https://icecast.teveo.cu/wcdnsH3K","yourmuzeId":null,"state":"1"}    
+  
+  
+  
    
    
   
